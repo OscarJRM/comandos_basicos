@@ -1,0 +1,11 @@
+######################################
+######## Formulario Alumnos ##########
+######################################
+
+Cedula:
+Nombres:
+Apellidos:
+Correo:
+Direccion:
+F. Nacimiento:
+
