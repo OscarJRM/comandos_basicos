@@ -3,5 +3,7 @@
 ################################
 
 Nombre del estudiante: Oscar Ramirez Manzano
+Semestre: Cuarto Software
 Fecha: 28/10/2023
 Valor a pagar: 120.00
+Discapacidad: No
