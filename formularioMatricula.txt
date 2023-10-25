@@ -1,0 +1,9 @@
+#######################################
+#### Formulario Matricula #############
+#######################################
+
+Universidad:
+Facultad:
+Carrera:
+Materias:
+Numero de creditos:
