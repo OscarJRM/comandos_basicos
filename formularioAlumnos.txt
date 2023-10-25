@@ -2,10 +2,10 @@
 ######## Formulario Alumnos ##########
 ######################################
 
-Cedula:
-Nombres:
-Apellidos:
-Correo:
-Direccion:
-F. Nacimiento:
+Cedula: 1850210004
+Nombres: Oscar Joel
+Apellidos: Ramirez Manzano
+Correo: oramirez0004@uta.edu.ec
+Direccion: Los heroes
+F. Nacimiento: 07/08/2003
 

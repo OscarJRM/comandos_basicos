@@ -2,8 +2,12 @@
 #### Formulario Matricula #############
 #######################################
 
-Universidad:
-Facultad:
-Carrera:
-Materias:
-Numero de creditos:
+Universidad: Universidad Tecnica de Ambato Facultad: Facultad de 
+ingenieria en sistemas, electronica e industrial Carrera: Software 
+Materias: 
+	Manejo y configuracion de software
+	Base de datos
+	Computascion visual
+	Metodos agiles
+	Redes
+Numero de creditos: 18
