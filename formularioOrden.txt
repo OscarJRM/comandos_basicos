@@ -2,6 +2,6 @@
 ######### Orden de pago#########
 ################################
 
-Nombre del estudiante:
-Fecha: 
-Valor a pagar:
+Nombre del estudiante: Oscar Ramirez Manzano
+Fecha: 28/10/2023
+Valor a pagar: 120.00
